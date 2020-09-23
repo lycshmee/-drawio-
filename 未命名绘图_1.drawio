@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T01:45:45.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" version="13.7.4" etag="9wvXLv7gpWKTYZ8TvVJT" type="github"><diagram id="9tYz75xCU9emthM_SeYN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-23T02:28:58.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" etag="BXambLxXQE9oUkrRPQNu" version="13.7.4" type="github">
+  <diagram id="9tYz75xCU9emthM_SeYN" name="第 1 页">
+    <mxGraphModel dx="1038" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#82b366;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="299.69" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="232.5" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80.63" width="398.75" height="398.75" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="99.69" y="239.38" width="160.62" height="160.62" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="159.69" y="339.69" width="160.62" height="160.62" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-9" value="charging bound" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="265" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-10" value="track" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="569" y="351" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-11" value="vehicle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-12" value="vehicle" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="340" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-13" value="energy globe" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="296" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NhHyEZKun1-7Eor_-Afb-14" value="message passing bound" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="500.31" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
