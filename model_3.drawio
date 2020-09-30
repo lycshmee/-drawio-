@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T07:42:20.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" version="13.7.4" etag="_ssIV8qgqMFMVgiVcgpM" type="github"><diagram id="aZD_anM9bRSfopSpOvYS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-30T07:48:10.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" etag="WfAs2bXUYkzT-L1rQqHf" version="13.7.4" type="github">
+  <diagram id="aZD_anM9bRSfopSpOvYS" name="第 1 页">
+    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nuto2wc5YhjRaAoFwKKD-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FF0000;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="350" y="245" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nuto2wc5YhjRaAoFwKKD-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="156" width="255" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="Nuto2wc5YhjRaAoFwKKD-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#3333FF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="221" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Nuto2wc5YhjRaAoFwKKD-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="177" y="73" width="421" height="421" as="geometry" />
+        </mxCell>
+        <mxCell id="Nuto2wc5YhjRaAoFwKKD-5" value="Max_distance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="93" width="84" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Nuto2wc5YhjRaAoFwKKD-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#00FF00;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="563" y="193" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nuto2wc5YhjRaAoFwKKD-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="596" y="296" as="sourcePoint" />
+            <mxPoint x="532" y="315" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="661" y="278" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nuto2wc5YhjRaAoFwKKD-10" value="vehicle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="230" width="48" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Nuto2wc5YhjRaAoFwKKD-11" value="go back to the globe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="331" width="118" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Nuto2wc5YhjRaAoFwKKD-12" value="energy globe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="309" width="80" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
